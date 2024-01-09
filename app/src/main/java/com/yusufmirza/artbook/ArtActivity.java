@@ -43,7 +43,7 @@ Bitmap selectedView;
     }
 
     public void save(View view) {
-
+System.out.println("I love you");
     }
     public void setImage(View view) {
 
